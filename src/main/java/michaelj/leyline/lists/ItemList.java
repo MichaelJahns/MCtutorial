@@ -1,9 +1,7 @@
-package com.example.examplemod.lists;
+package michaelj.leyline.lists;
 
 import net.minecraft.item.Item;
 
 public class ItemList {
-    public static Item tutorial_item;
     public static Item ornate_sword;
 }
-
